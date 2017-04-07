@@ -8,7 +8,7 @@
         <xt:oxy_version>19.0+</xt:oxy_version>
         <xt:type>plugin</xt:type>
         <xt:author>Adrian Sorop</xt:author>
-        <xt:name>Contribute jcgm library to Oxygen which make it possible to render CGM images.</xt:name>
+        <xt:name>Oxygen CGM support</xt:name>
         <xt:description xmlns="http://www.w3.org/1999/xhtml">
             <html>
                 <head><title>oxygenxml.jcgm.import</title></head>
