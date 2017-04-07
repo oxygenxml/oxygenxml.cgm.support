@@ -1,0 +1,14 @@
+<!DOCTYPE plugin PUBLIC "-//Oxygen Plugin" "../plugin.dtd">
+<plugin
+ id="oxygenxml.jcgm.support"
+ name="Render CGM images in Author mode with jcgm library"
+ description="Render Computer Graphics Metafile (CGM) in author mode using jcgm library."
+ version="1.0"
+ vendor="Radu Coravu"
+ class="ro.sync.exml.plugin.Plugin"
+ classLoaderType="preferReferencedResources">
+ <extension type="WorkspaceAccessJS" href="wsAccess.js"/>
+ <runtime>
+  <librariesFolder name="lib" scope="global"/>
+ </runtime>
+</plugin>
