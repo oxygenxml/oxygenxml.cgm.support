@@ -1,2 +1,2 @@
 # oxygenxml.cgm.support
-Oxygen XML Plugin contributing additional libraries which allow the application to render CGM images in Author mode.
+Oxygen XML Editor does not render by default CGM images. This plugin contributes additional libraries which allow it to render CGM images in Author mode.
