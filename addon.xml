@@ -5,7 +5,7 @@
     <xt:extension id="oxygenxml.jcgm.support">
         <xt:location href="https://github.com/oxygenxml/oxygenxml.cgm.support/archive/master.zip"/>
         <xt:version>1.1.0</xt:version>
-        <xt:oxy_version>19.0+</xt:oxy_version>
+        <xt:oxy_version>18.0+</xt:oxy_version>
         <xt:type>plugin</xt:type>
         <xt:author>Oxygen XML Editor</xt:author>
         <xt:name>Oxygen CGM support</xt:name>
