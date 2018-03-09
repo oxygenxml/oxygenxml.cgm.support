@@ -8,7 +8,7 @@
         <xt:oxy_version>18.0+</xt:oxy_version>
         <xt:type>plugin</xt:type>
         <xt:author>Oxygen XML Editor</xt:author>
-        <xt:name>Oxygen CGM support</xt:name>
+        <xt:name>CGM support</xt:name>
         <xt:description xmlns="http://www.w3.org/1999/xhtml">
             <html>
                 <head><title>oxygenxml.jcgm.import</title></head>
