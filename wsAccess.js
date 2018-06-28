@@ -19,7 +19,7 @@ function applicationStarted(pluginWorkspaceAccess) {
    *
    * Uncomment to activate this feature.
    */
-  //pluginWorkspaceAccess.getImageUtilities().addImageHandler(new JavaAdapter(Packages.ro.sync.exml.workspace.api.images.handlers.EditImageHandler, imageHandler));
+  pluginWorkspaceAccess.getImageUtilities().addImageHandler(new JavaAdapter(Packages.ro.sync.exml.workspace.api.images.handlers.EditImageHandler, imageHandler));
 }
 
 function getCGMImage(pluginWorkspaceAccess, cp, rc){
