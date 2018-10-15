@@ -13,3 +13,8 @@ To install the add-on, follow these instructions:
 4. Select the **I accept all terms of the end user license agreement** option and click **Finish**.
 5. Restart the application.
 
+Copyright and License
+---------------------
+Copyright 2018 Syncro Soft SRL.
+
+This project is licensed under [Apache License 2.0](https://github.com/oxygenxml/oxygenxml.cgm.support/blob/master/LICENSE)
