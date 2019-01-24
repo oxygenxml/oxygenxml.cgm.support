@@ -4,7 +4,7 @@
  name="Render CGM images in Author mode with jcgm library"
  description="Render Computer Graphics Metafile (CGM) in author mode using jcgm library."
  version="1.1"
- vendor="Radu Coravu"
+ vendor="Syncro Soft"
  class="ro.sync.exml.plugin.Plugin"
  classLoaderType="preferReferencedResources">
  <runtime>
