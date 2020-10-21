@@ -9,6 +9,23 @@
   <name>Oxygen CGM Support Plugin</name>
   <description>Oxygen plugin that adds cgm images rendering support</description>  
 
+  <developers>
+    <developer>
+      <name>Alex Jitianu</name>
+      <email>alex_jitianu@sync.ro</email>
+      <roles>
+        <role>manager</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Adrian Sorop</name>
+      <email>adrian_sorop@sync.ro</email>
+      <roles>
+        <role>co-manager</role>
+      </roles>
+    </developer>
+  </developers>
+
   <properties>
     <oxygen.sdk.version>23.0-SNAPSHOT</oxygen.sdk.version>
   </properties>
