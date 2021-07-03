@@ -15,7 +15,10 @@
                 <body>
                     <p>Contribute jcgm library to Oxygen which make it possible to render CGM images in Author mode.</p>
                     <p>This product includes software developed in part by support from the Defense Advanced Research Project Agency (DARPA).</p>
-                </body>
+		    <p>For more details, see: <a
+                        href="https://github.com/oxygenxml/oxygenxml.icu4j.i18n"
+                        >https://github.com/oxygenxml/oxygenxml.icu4j.i18n</a>.
+		</body>
             </html>
         </xt:description>
             
