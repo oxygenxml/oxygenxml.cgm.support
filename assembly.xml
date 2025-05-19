@@ -33,7 +33,7 @@
       <filtered>true</filtered>
     </file>
     <file>
-      <source>addon.xml</source>
+      <source>extension.xml</source>
     </file>
     <file>
       <source>LICENSE</source>
