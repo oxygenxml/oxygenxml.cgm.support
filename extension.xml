@@ -4,7 +4,7 @@
     xsi:schemaLocation="http://www.oxygenxml.com/ns/extension http://www.oxygenxml.com/ns/extension/extensions.xsd">
     <xt:extension id="oxygenxml.jcgm.support">
         <xt:location href="https://github.com/oxygenxml/oxygenxml.cgm.support/archive/master.zip"/>
-        <xt:version>1.3.0</xt:version>
+        <xt:version>1.2.0</xt:version>
         <xt:oxy_version>26.0+</xt:oxy_version>
         <xt:type>plugin</xt:type>
         <xt:author>Syncro Soft</xt:author>
@@ -15,7 +15,7 @@
                 <body>
                     <p>Contribute jcgm library to Oxygen which make it possible to render CGM images in Author mode.</p>
                     <p>This product includes software developed in part by support from the Defense Advanced Research Project Agency (DARPA).</p>
-                    <p>What's new in version 1.3.0: Add JCGM library for PDF printing.</p>
+                    <p>What's new in version 1.2.0: Updated JGCM library to version 2.0.5.</p>
                 </body>
             </html>
         </xt:description>
